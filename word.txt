@@ -1,3 +1,4 @@
 commit1的文件
 commit2的文件
 commit3的文件
+commit4在newbranch分支上的文件
